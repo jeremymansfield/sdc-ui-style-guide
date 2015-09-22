@@ -422,7 +422,7 @@ button.small, .button.small {padding: 0.4rem 1.75rem 0.4rem 1.75rem; font-size: 
      font-family: 'Montserrat', sans-serif; 
      font-weight: 400;
      color: #7acdcf;
-     border-left: 1px solid #efeee9;
+     border-left: 6px solid #efeee9;
 }
  /* ---- 480 (+) ---- */ 
 @media screen and (min-width: 30em){
